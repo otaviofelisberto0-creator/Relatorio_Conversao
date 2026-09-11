@@ -1,1 +1,8 @@
-
+{
+"versao": 4,
+"formato": "colunas-dicionario",
+"competencia": "2026-07",
+"arquivos": [
+"ND-26-07.json"
+]
+}
